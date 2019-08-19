@@ -1,0 +1,22 @@
+{
+  "name": "chesspost",
+  "version": "1.0.0",
+  "description": "Online Chess Poster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om Shri",
+  "license": "ISC",
+  "dependencies": {
+    "chessboardjs": "0.0.1",
+    "dom-to-image": "^2.6.0",
+    "express": "^4.16.4",
+    "file-saver": "^2.0.2",
+    "jquery": "^3.4.1",
+    "jsdom": "^15.1.0",
+    "nodemon": "^1.19.0",
+    "pgn-parser": "0.0.9",
+    "request": "^2.88.0"
+  }
+}
